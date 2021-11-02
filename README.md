@@ -1,0 +1,2 @@
+# daynote
+write my life
